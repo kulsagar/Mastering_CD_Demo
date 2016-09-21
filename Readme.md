@@ -2,3 +2,6 @@
 
 ## This is a demo repository
 
+Demo for merge conflicts.
+If I do this without any mistakes, then I can take rest for rest of the day.
+
